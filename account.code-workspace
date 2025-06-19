@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Users/arpan/Downloads/hihi/account"
+		},
+		{
+			"path": "../../../../../Users/arpan/Downloads/hihi/css"
+		},
+		{
+			"path": "../../../../../Users/arpan/Downloads/hihi/fonts"
+		},
+		{
+			"path": "../../../../../Users/arpan/Downloads/hihi/images"
+		},
+		{
+			"path": "../../../../../Users/arpan/Downloads/hihi/js"
+		},
+		{
+			"path": "../../../../../Users/arpan/Downloads/hihi/screenshots"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "account"
+	}
+}
